@@ -1,13 +1,13 @@
-# Hi, I'm Sharvani 👋
+# Hi, I'm Sharvani 
 
-💻 Student   
-🌱 Currently learning Web Development  
-🚀 Interested in building websites and apps  
+ Student   
+ Currently learning Web Development  
+ Interested in building websites and apps  
 
-## 🔧 Skills
+##  Skills
 - HTML
 - CSS
 - JavaScript (learning)
 
-## 📫 Contact
+##  Contact
 - Email: jalagarisharvani@gmail.com
